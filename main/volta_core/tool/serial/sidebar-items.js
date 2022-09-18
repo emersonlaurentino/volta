@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["is_version_like","Determine if a given string is “version-like”."]],"struct":[["HAS_VERSION",""],["TOOL_SPEC_PATTERN",""]]};

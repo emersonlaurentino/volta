@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ProgressRead","A reader that reports incremental progress while reading."]]};

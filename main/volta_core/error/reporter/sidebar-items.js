@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["collect_arguments","Combines all the arguments into a single String"],["compose_error_details",""],["report_error","Report an error, both to the console and to error logs"],["write_error_log","Write an error log with all details about the error"]]};

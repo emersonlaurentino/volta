@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["send_events","Send event to the spawned command process"],["spawn_process",""],["write_events_file",""]]};

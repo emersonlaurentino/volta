@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Validity",""]],"fn":[["done",""],["validate",""]],"static":[["ENCODE_URI_SET","The set of characters to encode, matching the characters encoded by `encodeURIComponent`"]],"struct":[["BLACKLIST",""],["BUILTINS",""],["SCOPED_PACKAGE",""],["SPECIAL_CHARS",""]]};

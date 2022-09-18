@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["command","Build a `ToolCommand` for npx"],["execution_context","Determine the execution context (PATH and failure error message) for npx"]],"struct":[["REQUIRED_NPM_VERSION","The minimum required npm version that includes npx (5.2.0)"]]};

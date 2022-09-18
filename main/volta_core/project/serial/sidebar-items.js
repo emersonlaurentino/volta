@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ManifestKey",""]],"fn":[["update_manifest","Updates the `volta` hash in the specified manifest with the given key and value"]],"struct":[["Manifest",""],["RawManifest",""],["ToolchainSpec",""]],"type":[["DependencyMapIterator",""]]};
